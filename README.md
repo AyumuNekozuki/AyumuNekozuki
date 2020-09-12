@@ -1,16 +1,12 @@
-### Hi there 👋
+# AyumuNekozuki
 
-<!--
-**AyumuNekozuki/AyumuNekozuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 猫月遥歩（ねこづきあゆむ）
+- 2020年4月現在、N高等学校 3年。
+- 重度のニコ厨。
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- [PortalSite](https://nekozuki.me/)
+- [Portfolio](https://portfolio.nekozuki.me/)
+- [Blog](https://blog.nekozuki.me/)
+- [Twitter](https://twitter.com/nekozuki_dev)
+- [niconico](https://nicovideo.jp/user/45048152)
