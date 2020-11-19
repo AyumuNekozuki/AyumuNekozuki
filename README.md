@@ -4,7 +4,6 @@
 
 ## Links
 - [PortalSite](https://nekozuki.me/)
-- [Portfolio](https://portfolio.nekozuki.me/)
 - [Blog](https://blog.nekozuki.me/)
 - [Twitter](https://twitter.com/nekozuki_dev)
 - [niconico](https://nicovideo.jp/user/45048152)
