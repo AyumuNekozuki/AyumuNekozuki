@@ -4,8 +4,8 @@
 
 ## Links
 
+- [nekozuki.me](https://nekozuki.me/) 
+- [ブログ](https://blog.nekozuki.me/) 
 
-| [![](profile_img/nekozukime.png)](https://nekozuki.me/)  |  [![](profile_img/blog.png)](https://blog.nekozuki.me/)  |
-|:------------:|:------------:|
-|  [![](profile_img/twitter_main.png)](https://twitter.com/nekozuki_2525)  |  [![](profile_img/twitter_dev.png)](https://twitter.com/nekozuki_dev)  |
-|  [![](profile_img/nico.png)](https://nicovideo.jp/user/45048152)  | - v - | 
+- [Twitter @nekozuki_dev](https://twitter.com/nekozuki_dev) 
+- [その他リンク](https://nekozuki.me/links)
